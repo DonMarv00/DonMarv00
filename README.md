@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm Marv, 22 from Germany
+
+#### GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=MarvinStelter&show_icons=true&icon_color=FFFF00&theme=dark&title_color=FFFF00)
+
+
 <!--
 **MarvinStelter/MarvinStelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
